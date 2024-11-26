@@ -1,6 +1,6 @@
 # Abstractify, IITD 2023
 
-I had the priviledge to participate in the Quant Winter Trading School
+I had the priviledge to participate in the Quant Trading Winter School
 by IIT Delhi in Jan-Feb 2023.
 
 The school concluded with the event - Abstractify, which was a problem
